@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hugo_build.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/fundamentals/principalaudience/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/fundamentals/values4ProductTeams/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/fundamentals/values4analysts/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hugo.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/book.scss_e129fe35b8d0a70789c8a08429469073.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/book.scss_e129fe35b8d0a70789c8a08429469073.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/ProductCode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/Values4ProdTeam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-book" afterDir="false" />
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="First three docs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/principalaudience/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/principalaudience/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/quickstart/clear/stage2/seaf-bok/static"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/quickstart/clear/stage2/seaf-bok/static&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\quickstart\clear\stage2\seaf-bok\static" />
@@ -68,6 +54,15 @@
       <option name="presentableId" value="Default" />
       <updated>1739609404259</updated>
     </task>
+    <task id="LOCAL-00001" summary="First three docs">
+      <option name="closed" value="true" />
+      <created>1739724442861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739724442861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First three docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="First three docs" />
   </component>
 </project>

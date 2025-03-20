@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Уточнение и расширение целевой аудитории SEAF">
-      <change afterPath="$PROJECT_DIR$/content/calendar/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/contribute/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/example/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/guides/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/posts/TriadicOntology/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/posts/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/posts/codesmell/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/rabbithole/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/rabbithole/books/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/rabbithole/videos/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/seafonapage/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/events/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/menu/_index.md" afterDir="false" />
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)">
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/format.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/howtoadd.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/howtostart.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/contribute/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/posts/TriadicOntology/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/posts/TriadicOntology/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/posts/codesmell/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/posts/codesmell/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +42,12 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/quickstart/releases/seaf-bok"
+    "last_opened_file_path": "C:/quickstart/releases/seaf-bok/content/docs/contribute"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\quickstart\releases\seaf-bok\content\docs\contribute" />
       <recent name="C:\quickstart\clear\stage2\seaf-bok\static" />
     </key>
   </component>
@@ -83,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739782609432</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)">
+      <option name="closed" value="true" />
+      <created>1742480734587</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742480734588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +114,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First three docs" />
     <MESSAGE value="Уточнение и расширение целевой аудитории SEAF" />
-    <option name="LAST_COMMIT_MESSAGE" value="Уточнение и расширение целевой аудитории SEAF" />
+    <MESSAGE value="Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 ---
 title: "Триадическая онтология по Эрику Бернсу"
-weight: 1
+weight: 001
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

@@ -1,6 +1,6 @@
 ---
 title: "CodeSmell"
-weight: 101
+weight: 002
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

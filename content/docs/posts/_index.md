@@ -1,6 +1,6 @@
 ---
-title: "Fundamentals"
-weight: 3
+title: "Посты"
+weight: 1
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false

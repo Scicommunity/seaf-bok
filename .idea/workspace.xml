@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Уточнение и расширение целевой аудитории SEAF">
-      <change afterPath="$PROJECT_DIR$/content/docs/fundamentals/where/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/calendar/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/example/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/guides/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/posts/TriadicOntology/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/posts/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/posts/codesmell/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/rabbithole/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/rabbithole/books/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/rabbithole/videos/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/seafonapage/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/events/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/menu/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/principalaudience/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/principalaudience/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/values4ProductTeams/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/values4ProductTeams/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/values4analysts/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/values4analysts/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/quickstart/clear/stage2/seaf-bok/static&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/quickstart/releases/seaf-bok"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\quickstart\clear\stage2\seaf-bok\static" />

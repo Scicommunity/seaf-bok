@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)">
-      <change afterPath="$PROJECT_DIR$/content/docs/contribute/format.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/contribute/howtoadd.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/contribute/howtostart.md" afterDir="false" />
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки">
+      <change afterPath="$PROJECT_DIR$/static/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/image9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/contribute/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/posts/TriadicOntology/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/posts/TriadicOntology/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/posts/codesmell/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/posts/codesmell/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +61,12 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/quickstart/releases/seaf-bok/content/docs/contribute"
+    "last_opened_file_path": "C:/quickstart/releases/seaf-bok/static"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\quickstart\releases\seaf-bok\static" />
       <recent name="C:\quickstart\releases\seaf-bok\content\docs\contribute" />
       <recent name="C:\quickstart\clear\stage2\seaf-bok\static" />
     </key>
@@ -115,6 +135,7 @@
     <MESSAGE value="First three docs" />
     <MESSAGE value="Уточнение и расширение целевой аудитории SEAF" />
     <MESSAGE value="Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)" />
+    <MESSAGE value="Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки" />
   </component>
 </project>

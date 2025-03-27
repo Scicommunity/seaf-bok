@@ -10,10 +10,10 @@ bookCollapseSection: false
 ---
 
 
-##**Участники разработки SEAF:**
+**Участники разработки SEAF:**
 
 
-**Maintainer [NinthArchitect](https://github.com/Scicommunity), если
+**Maintainer [Scicommunity](https://github.com/Scicommunity) / NinthArchitect, если
 иное не указано в отдельных разделах.**
 
 

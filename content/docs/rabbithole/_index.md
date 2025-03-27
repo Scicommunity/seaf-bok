@@ -1,5 +1,5 @@
 ---
-title: "Исследуй как глубока эта нора. Rabbithole"
+title: "Rabbithole"
 weight: 9
 # bookFlatSection: false
 # bookToc: true

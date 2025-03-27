@@ -1,5 +1,5 @@
 ---
-title: "Сделать вклад"
+title: "Contribute"
 weight: 8
 # bookFlatSection: false
 # bookToc: true

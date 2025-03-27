@@ -5,32 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки">
-      <change afterPath="$PROJECT_DIR$/static/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/image9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/contributors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/todo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/posts/Reverse engineering/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/contribute/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/example/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/principalaudience/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/where/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/guides/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/posts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/posts/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/rabbithole/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/rabbithole/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/seafonapage/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/seafonapage/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +48,13 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/quickstart/releases/seaf-bok/static"
+    "last_opened_file_path": "C:/quickstart/releases/seaf-bok/content/docs/contribute"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\quickstart\releases\seaf-bok\static" />
       <recent name="C:\quickstart\releases\seaf-bok\content\docs\contribute" />
+      <recent name="C:\quickstart\releases\seaf-bok\static" />
       <recent name="C:\quickstart\clear\stage2\seaf-bok\static" />
     </key>
   </component>
@@ -104,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742480734588</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки">
+      <option name="closed" value="true" />
+      <created>1743008932715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743008932715</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

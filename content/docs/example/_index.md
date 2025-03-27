@@ -1,5 +1,5 @@
 ---
-title: "Примеры"
+title: "Examples"
 weight: 5
 # bookFlatSection: false
 # bookToc: true

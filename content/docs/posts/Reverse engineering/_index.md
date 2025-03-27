@@ -1,12 +1,12 @@
 ---
-title: "Guides"
-weight: 4
+title: "Reverse engineering"
+weight: 100
 # bookFlatSection: false
-# bookToc: true
+bookToc: true
 # bookHidden: false
 bookCollapseSection: true
 # bookComments: false
 # bookSearchExclude: false
 ---
 
-Guides
+Reverse engineering

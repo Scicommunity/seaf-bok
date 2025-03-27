@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Guides/Методика сегментации архитектуры.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Методика сегментации архитектуры"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 261.5
   },
   "right": {
     "id": "2dace323d37d6b22",
@@ -181,14 +181,29 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "56aa2c464e21ff05",
+  "active": "fddab1e91421cf81",
   "lastOpenFiles": [
+    "static/rev_idea/image8.png",
+    "static/rev_idea/image9.png",
+    "static/rev_idea/image3.png",
+    "static/rev_idea/image7.png",
+    "static/rev_idea/image6.png",
+    "static/rev_idea/image5.png",
+    "static/rev_idea/image4.png",
+    "static/rev_idea/image21.png",
+    "static/rev_idea/image20.png",
+    "static/rev_idea/image2.png",
+    "static/rev_idea/image19.png",
+    "static/rev_idea",
+    "content/docs/posts/Reverse engineering/rev_idea",
+    "content/docs/posts/Reverse engineering/img/media",
+    "content/docs/posts/Reverse engineering/img",
+    "content/docs/posts/Reverse engineering/PSI_IDEA.md~",
+    "content/docs/posts/Reverse engineering/PSI_IDEA.md",
     "2024-02-05.md",
     "2024-02-07.md",
     "2025-02-21.md",
     "2025-03-10.md",
-    "5267099990597061218.webp",
-    "5267099990597061363.webp",
     "Без названия 3.canvas",
     "Варианты создания заметок в теле статьи.md",
     "Модель ПА.md",
@@ -196,12 +211,6 @@
     "Новый проект2.mp4",
     "Обучение DocHub 05.02.2024.md",
     "Реверс технической архитектуры из cloud.ru (платформы Enterprise) с применением пакета SEAF IaaS Reverse.md",
-    "msg-1002009916411-766.jpg",
-    "Pasted Image 20250317141117_046.png",
-    "Pasted Image 20250317141233_049.png",
-    "Pasted Image 20250317141649_055.png",
-    "Pasted Image 20250317142145_150.png",
-    "Pasted Image 20250317142213_766.png",
     "README.md",
     "Untitled.canvas",
     "СООБЩЕСТВО SEAF/ЧЕГО МЫ ХОТИМ ОТ SEAF.md",
@@ -222,18 +231,10 @@
     "СООБЩЕСТВО SEAF/ХХ_Основные мысли.md",
     "СООБЩЕСТВО SEAF/План мероприятий SEAF_2024Q3-4_v2.excalidraw.md",
     "Excalidraw/ПРОБЛЕМАТИКА SEAF_0.9.excalidraw.md",
-    "СООБЩЕСТВО SEAF/1.1. Миссия и цели Сообщетва SEAF.excalidraw.md",
-    "Конференция FLOW/Основные мысли и выводы для целевой аудитории.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Release Notes SEAF",
     "Цели SEAF",
-    "Новый инструмент SEAF",
-    "Untitled 4",
-    "Untitled 3",
-    "Бренд/Untitled",
-    "СООБЩЕСТВО SEAF/ХХ_as is_Сценарий и проблемы SEAF.excalidraw.png",
-    "Бренд",
-    "СООБЩЕСТВО SEAF"
+    "Новый инструмент SEAF"
   ]
 }

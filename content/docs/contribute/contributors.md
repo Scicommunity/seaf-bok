@@ -20,15 +20,11 @@ bookCollapseSection: false
 Рецензенты, контрибьюторы, мейнтейнеры отдельных разделов:  
 
 
-[altershaman](https://github.com/altershaman)  
+* [altershaman](https://github.com/altershaman)  ;
+* [xantia88](https://github.com/xantia88) ;
+* [CherepanovEugene](https://github.com/CherepanovEugene) , -
 
 
-[xantia88](https://github.com/xantia88) 
-
-
-[CherepanovEugene](https://github.com/CherepanovEugene) ,
-
-
-и другие (раздел наполняется по мере разработки документации).
+и другие участники создания SEAF (раздел наполняется по мере разработки документации).
 
 

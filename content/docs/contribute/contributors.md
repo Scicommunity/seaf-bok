@@ -26,10 +26,9 @@ bookCollapseSection: false
 [xantia88](https://github.com/xantia88) 
 
 
-[Черепанов Евгений Валерьевич](https://confluence.sberbank.ru/display/~08343527) ,
+[CherepanovEugene](https://github.com/CherepanovEugene) ,
 
 
-
-и другие (по мере наполнения обновлять).
+и другие (раздел наполняется по мере разработки документации).
 
 

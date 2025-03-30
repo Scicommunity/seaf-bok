@@ -7,6 +7,8 @@ weight: 4
 # bookCollapseSection: true
 # bookComments: false
 # bookSearchExclude: false
+aliases:
+  - Ценности SEAF для аналитиков
 ---
 # Ценностное предложение для бизнес- и системных аналитиков
 

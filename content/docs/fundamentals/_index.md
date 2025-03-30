@@ -1,14 +1,13 @@
 ---
-title: "Fundamentals"
+title: Fundamentals
 weight: 3
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
 bookCollapseSection: true
-# bookComments: false
-# bookSearchExclude: false
+aliases:
+  - Fundamentals
 ---
+[[content/docs/fundamentals/values4analysts/index|Ценности SEAF для аналитиков]]
 
+[Ценностное предложение для аналитиков](Ценности%20SEAF%20для%20аналитиков)
 ## Цели SEAF  {#goals}
 
 Цели SEAF подробно раскрыты на странице [Цели

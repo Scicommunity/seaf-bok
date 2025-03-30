@@ -1,5 +1,5 @@
 ---
-title: "Reverse engineering"
+title: "Reverse Engineering (RE)"
 weight: 100
 # bookFlatSection: false
 bookToc: true
@@ -8,5 +8,3 @@ bookCollapseSection: true
 # bookComments: false
 # bookSearchExclude: false
 ---
-
-Reverse engineering

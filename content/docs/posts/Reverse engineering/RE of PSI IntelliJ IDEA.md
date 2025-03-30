@@ -1,12 +1,10 @@
 ---
-title: "IntelliJ IDEA"
+title: RE of PSI IntelliJ IDEA
 weight: 100
-# bookFlatSection: false
 bookToc: true
-# bookHidden: false
 bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
+aliases:
+  - Реверс IDEA
 ---
 
 ## **C4-модель Архитектуры PSI в JetBrains IDE**

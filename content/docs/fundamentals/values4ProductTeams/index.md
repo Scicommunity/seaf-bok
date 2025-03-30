@@ -1,11 +1,11 @@
 ---
 title: "Ценностное предложение для Продуктовых команд"
-weight: 20
-bookFlatSection: false
-bookToc: true
+weight: 5
+# bookFlatSection: false
+# bookToc: true
 # bookHidden: false
-bookCollapseSection: false
-bookComments: true
+# bookCollapseSection: true
+# bookComments: false
 # bookSearchExclude: false
 ---
 

@@ -1,14 +1,13 @@
 ---
-title: "Ценностное предложение для бизнес- и системных аналитиков"
-weight: 10
+title: Ценностное предложение для бизнес- и системных аналитиков
+weight: 4
 # bookFlatSection: false
-bookToc: true
+# bookToc: true
 # bookHidden: false
-# bookCollapseSection: false
-bookComments: false
-bookSearchExclude: false
+# bookCollapseSection: true
+# bookComments: false
+# bookSearchExclude: false
 ---
-
 # Ценностное предложение для бизнес- и системных аналитиков
 
 Целевая аудитория SEAF включает в себя бизнес- и системных аналитиков различных уровней подготовки, которые потенциально могут стать системными и корпоративными архитекторами. Их интересы обычно сосредоточены на управлении требованиями, проектировании информационных систем, знаниях по BABOK, процессных фреймворках (например, BPM CBOK), а различных нотациях, например EPC, BPMN и UML.

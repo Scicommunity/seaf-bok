@@ -9,5 +9,5 @@ bookCollapseSection: false
 # bookSearchExclude: false
 ---
 
-#Как начать использовать SEAF **Base Of Knowledge**
+# Как начать использовать SEAF **Base Of Knowledge**
 

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "834bf4dbec1a1b42",
+        "id": "f1ea7023f1654500",
         "type": "tabs",
         "children": [
           {
-            "id": "56aa2c464e21ff05",
+            "id": "1c2ca695c55cf154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/docs/fundamentals/values4ProductTeams/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "tag:#Цели",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 252.5
   },
   "right": {
     "id": "2dace323d37d6b22",
@@ -138,7 +138,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +182,22 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fddab1e91421cf81",
+  "active": "1c2ca695c55cf154",
   "lastOpenFiles": [
+    "content/docs/fundamentals/values4analysts/index.md",
+    "content/docs/fundamentals/_index.md",
+    "content/docs/fundamentals/values4ProductTeams/index.md",
+    "content/docs/fundamentals/values4bank/values4bank.md",
+    "content/docs/example/_index.md",
+    "content/docs/fundamentals/values4bank",
+    "static/image1.png",
+    "Без названия.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/Теги (топики, темы) SEAF.md",
+    "content/docs/contribute/howtostart.md",
+    "themes/hugo-book/exampleSite/content.en/posts/goisforlovers.md",
+    "content/docs/posts/Reverse engineering/PSI_IDEA.md",
+    "content/ObsidianVault/Excalidraw/HowToMakeAnArchitectGreatAgain.excalidraw.md",
+    "README.md",
     "static/rev_idea/image8.png",
     "static/rev_idea/image9.png",
     "static/rev_idea/image3.png",
@@ -192,14 +207,11 @@
     "static/rev_idea/image4.png",
     "static/rev_idea/image21.png",
     "static/rev_idea/image20.png",
-    "static/rev_idea/image2.png",
-    "static/rev_idea/image19.png",
     "static/rev_idea",
     "content/docs/posts/Reverse engineering/rev_idea",
     "content/docs/posts/Reverse engineering/img/media",
     "content/docs/posts/Reverse engineering/img",
     "content/docs/posts/Reverse engineering/PSI_IDEA.md~",
-    "content/docs/posts/Reverse engineering/PSI_IDEA.md",
     "2024-02-05.md",
     "2024-02-07.md",
     "2025-02-21.md",
@@ -211,7 +223,6 @@
     "Новый проект2.mp4",
     "Обучение DocHub 05.02.2024.md",
     "Реверс технической архитектуры из cloud.ru (платформы Enterprise) с применением пакета SEAF IaaS Reverse.md",
-    "README.md",
     "Untitled.canvas",
     "СООБЩЕСТВО SEAF/ЧЕГО МЫ ХОТИМ ОТ SEAF.md",
     "Цели SEAF/Конгруэнтные цели.md",
@@ -220,21 +231,11 @@
     "Untitled 1.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 4.md",
-    "SEAF.sci.community/Drawing 2025-03-17 13.31.23.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-17 13.31.04.excalidraw.md",
     "SEAF.sci.community",
-    "Новая заметка.md",
     "Без названия 2.canvas",
-    "СООБЩЕСТВО SEAF/ХХ_Основные мысли.md",
-    "СООБЩЕСТВО SEAF/План мероприятий SEAF_2024Q3-4_v2.excalidraw.md",
-    "Excalidraw/ПРОБЛЕМАТИКА SEAF_0.9.excalidraw.md",
     "Без названия 1.canvas",
     "Без названия.canvas",
     "Release Notes SEAF",
-    "Цели SEAF",
-    "Новый инструмент SEAF"
+    "Цели SEAF"
   ]
 }

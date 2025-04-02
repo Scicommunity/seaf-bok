@@ -7,6 +7,8 @@ weight: 10
 bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+aliases:
+  - Как добавить статью SEAF BOK
 ---
 
 

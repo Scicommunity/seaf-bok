@@ -7,6 +7,8 @@ weight: 11
 bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+aliases:
+  - TODOBOK
 ---
 
 
@@ -57,3 +59,4 @@ bookCollapseSection: false
 
 Включить главную цель  SEAF в виде определения подхода к трансформации в
 AI native организацию.
+

@@ -7,6 +7,8 @@ weight: 9
 bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+aliases:
+  - Как оформить статью SEAF BOK
 ---
 
 

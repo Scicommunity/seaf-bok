@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "53d008fc2984799a",
+        "id": "dfcfe6be8d245a99",
         "type": "tabs",
         "children": [
           {
-            "id": "593e366de2e05269",
+            "id": "09639e2f0b4760d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Цели",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 240.5
   },
   "right": {
     "id": "2dace323d37d6b22",
@@ -94,8 +90,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия 3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 3"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -123,12 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия 3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия 3"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -152,10 +146,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Конференция FLOW/Основные мысли и выводы для целевой аудитории.md"
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Основные мысли и выводы для целевой аудитории"
+              "title": "Структура"
             }
           }
         ],
@@ -163,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,60 +177,59 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "593e366de2e05269",
+  "active": "09639e2f0b4760d9",
   "lastOpenFiles": [
+    "content/docs/contribute/_index.md",
+    "seafonapage/_index.md",
+    "seafonapage",
+    "content/docs/contribute/HowToMarkData.md",
+    "content/docs/seafonapage/_index.md",
+    "content/docs/contribute/howtostart.md",
+    "content/docs/contribute/howtoformat.md",
+    "content/docs/fundamentals/_index.md",
+    "content/docs/seafonapage/docstructure.excalidraw.png",
+    "content/docs/seafonapage/docstructure.excalidraw.md",
+    "static/docstructure.excalidraw.png",
+    "Pasted Image 20250402180703_209.png",
+    "static/image1.png",
+    "content/docs/_index.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/Теги (топики, темы) SEAF.md",
+    "content/docs/contribute/todoBOK.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/1.1. Миссия и цели Сообщетва SEAF.excalidraw.md",
+    "content/docs/contribute/howtoadd.md",
+    "content/docs/contribute/contributors.md",
+    "контриьбюторы.md",
+    "README.md",
+    "README.md~",
     "content/docs/fundamentals/_index.md~",
     "2025-03-30.md",
-    "README.md",
     "Без названия.canvas",
     "Без названия.md",
     "Ценности SEAF для аналитиков.md",
     "image20.png.md",
     "image20.png 2.md",
     "image20.png 1.md",
-    "content/docs/fundamentals/_index.md",
     "static/image20.png",
     "content/menu/_index.md",
     "themes/hugo-book/archetypes/docs.md",
     "content/docs/fundamentals/values4analysts/index.md",
     "content/docs/posts/Reverse engineering/_index.md",
     "content/docs/posts/Reverse engineering/image3.png",
-    "content/docs/posts/Reverse engineering/RE of PSI IntelliJ IDEA.md",
-    "content/docs/fundamentals/values4ProductTeams/index.md",
-    "content/docs/fundamentals/values4bank/values4bank.md",
-    "content/docs/example/_index.md",
     "content/docs/fundamentals/values4bank",
-    "static/image1.png",
-    "content/ObsidianVault/СООБЩЕСТВО SEAF/Теги (топики, темы) SEAF.md",
-    "content/docs/contribute/howtostart.md",
-    "themes/hugo-book/exampleSite/content.en/posts/goisforlovers.md",
-    "content/ObsidianVault/Excalidraw/HowToMakeAnArchitectGreatAgain.excalidraw.md",
     "static/rev_idea/image8.png",
     "static/rev_idea/image9.png",
     "static/rev_idea/image3.png",
-    "static/rev_idea/image7.png",
-    "static/rev_idea/image6.png",
-    "static/rev_idea/image5.png",
-    "static/rev_idea/image4.png",
     "static/rev_idea",
     "content/docs/posts/Reverse engineering/rev_idea",
     "content/docs/posts/Reverse engineering/img/media",
     "content/docs/posts/Reverse engineering/img",
     "content/docs/posts/Reverse engineering/PSI_IDEA.md~",
-    "2024-02-05.md",
-    "2024-02-07.md",
-    "2025-02-21.md",
-    "2025-03-10.md",
     "Без названия 3.canvas",
-    "Варианты создания заметок в теле статьи.md",
     "Новый проект2.mp4",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "SEAF.sci.community",
     "Без названия 2.canvas",
-    "Без названия 1.canvas",
-    "Release Notes SEAF",
-    "Цели SEAF"
+    "Без названия 1.canvas"
   ]
 }

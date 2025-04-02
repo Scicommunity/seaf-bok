@@ -7,6 +7,8 @@ weight: 12
 bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+aliases:
+  - Контрибьюторы SEAF BOK
 ---
 
 

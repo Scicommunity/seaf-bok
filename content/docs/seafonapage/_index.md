@@ -7,6 +7,8 @@ bookToc: true
 bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+tags:
+  - seafonapage
 ---
 
 ## **Для кого создается SEAF?**
@@ -50,3 +52,8 @@ bookCollapseSection: false
 <div style="text-align: center">⁂</div>
 
 
+## **Структура документации SEAF**
+
+
+
+![](/docstructure.excalidraw.png)

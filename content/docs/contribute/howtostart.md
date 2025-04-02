@@ -7,7 +7,10 @@ weight: 8
 bookCollapseSection: false
 # bookComments: false
 # bookSearchExclude: false
+aliases:
+  - Как начать пользоваться SEAF BOK
 ---
 
-# Как начать использовать SEAF **Base Of Knowledge**
+# Как начать использовать SEAF **Base Of Knowledge**ZXCVZCVZ
+
 

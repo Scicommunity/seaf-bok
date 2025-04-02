@@ -5,9 +5,10 @@ bookCollapseSection: true
 aliases:
   - Fundamentals
 ---
-[[content/docs/fundamentals/values4analysts/index|Ценности SEAF для аналитиков]]
+Tags: #Fundamentals
 
-[Ценностное предложение для аналитиков](Ценности%20SEAF%20для%20аналитиков)
+
+
 ## Цели SEAF  {#goals}
 
 Цели SEAF подробно раскрыты на странице [Цели
@@ -1809,9 +1810,11 @@ API от IaaS провайдеров.</p>
 </tr>
 <tr>
 <td>8.       </td>
-<td><a
-href="https://stash.sigma.sbrf.ru/projects/METAECO_DZO/repos/foss_seaf_bok/browse">SEAF
-Base Of Knowledge</a></td>
+<td>
+<a href="https://stash.sigma.sbrf.ru/projects/METAECO_DZO/repos/foss_seaf_bok/browse">
+SEAF Base Of Knowledge
+</a>
+</td>
 <td>Репозиторий для публикации базы знаний, wiki, публикаций, календаря
 событий для сообщества SEAF, анонсов.  Исходного кода не содержит</td>
 </tr>

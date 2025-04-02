@@ -4,20 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки">
-      <change afterPath="$PROJECT_DIR$/content/docs/contribute/contributors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/contribute/todo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/docs/posts/Reverse engineering/_index.md" afterDir="false" />
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Редактирование fundamentals, разнесение по заметкам, редактирование тегов">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image20.png 1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image20.png 2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image20.png.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/ProductCode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Values4ProdTeam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/contribute/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/example/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/fundamentals/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/guides/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/posts/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/posts/reverse-engineering/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/rabbithole/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/docs/seafonapage/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ценности SEAF для аналитиков.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/contribute/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/example/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/principalaudience/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/where/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/guides/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/posts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/posts/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/rabbithole/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/rabbithole/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/seafonapage/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/seafonapage/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/menu/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/menu/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +62,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,19 +79,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/quickstart/releases/seaf-bok/content/docs/contribute"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/quickstart/releases/seaf-bok/static&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\quickstart\releases\seaf-bok\content\docs\posts\Reverse engineering" />
+      <recent name="C:\quickstart\releases\seaf-bok\content" />
+      <recent name="C:\quickstart\releases\seaf-bok" />
       <recent name="C:\quickstart\releases\seaf-bok\content\docs\contribute" />
       <recent name="C:\quickstart\releases\seaf-bok\static" />
-      <recent name="C:\quickstart\clear\stage2\seaf-bok\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\quickstart\releases\seaf-bok\static" />
+      <recent name="C:\quickstart\releases\seaf-bok\content\docs\posts\Reverse engineering\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -99,7 +141,39 @@
       <option name="project" value="LOCAL" />
       <updated>1743008932715</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Обновление файла contributors.md">
+      <option name="closed" value="true" />
+      <created>1743092224088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743092224088</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Обновление файла contributors.md">
+      <option name="closed" value="true" />
+      <created>1743092355044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743092355044</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Интеграция предыдущих заметок о SEAF для целей распределенной доработки документации">
+      <option name="closed" value="true" />
+      <created>1743093772327</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743093772327</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Публикация результатов обратного инжиниринга IntelliJ IDEA по исходному коду с GitHub">
+      <option name="closed" value="true" />
+      <created>1743096964575</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743096964575</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +205,10 @@
     <MESSAGE value="Уточнение и расширение целевой аудитории SEAF" />
     <MESSAGE value="Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)" />
     <MESSAGE value="Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки" />
+    <MESSAGE value="Обновление файла contributors.md" />
+    <MESSAGE value="Интеграция предыдущих заметок о SEAF для целей распределенной доработки документации" />
+    <MESSAGE value="Публикация результатов обратного инжиниринга IntelliJ IDEA по исходному коду с GitHub" />
+    <MESSAGE value="Редактирование fundamentals, разнесение по заметкам, редактирование тегов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Редактирование fundamentals, разнесение по заметкам, редактирование тегов" />
   </component>
 </project>

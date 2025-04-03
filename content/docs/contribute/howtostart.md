@@ -1,5 +1,5 @@
 ---
-title: "Как начать использовать SEAF Base Of Knowledge"
+title: "Как начать использовать SEAF BOK"
 weight: 8
 # bookFlatSection: false
 # bookToc: true

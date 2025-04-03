@@ -7,9 +7,6 @@ aliases:
 tags:
   - fundamentals
 ---
-
-
-
 ## Цели SEAF  {#goals}
 
 Цели SEAF подробно раскрыты на странице [Цели

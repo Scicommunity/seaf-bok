@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfcfe6be8d245a99",
+        "id": "a653da0bf06ab1fe",
         "type": "tabs",
         "children": [
           {
-            "id": "09639e2f0b4760d9",
+            "id": "c9b11f7b351f0fc3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 308.5
   },
   "right": {
     "id": "2dace323d37d6b22",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
@@ -132,7 +132,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -154,12 +154,12 @@
               "title": "Структура"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 317.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,27 +177,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "09639e2f0b4760d9",
+  "active": "c9b11f7b351f0fc3",
   "lastOpenFiles": [
     "content/docs/contribute/_index.md",
-    "seafonapage/_index.md",
-    "seafonapage",
-    "content/docs/contribute/HowToMarkData.md",
+    "content/docs/contribute/todolist.md",
+    "content/docs/contribute/howtomarkdata.md",
     "content/docs/seafonapage/_index.md",
+    "content/docs/seafonapage/docstructure.excalidraw.md",
+    "content/docs/_index.md",
+    "seafonapage/_index.md",
+    "static/Values4ProdTeam.png",
+    "static/ProductCode.png",
+    "static/Pasted Image 20250402180703_209.png",
+    "static/docstructure.excalidraw.png",
+    "content/docs/contribute/SEAF TAGS.drawio",
+    "content/docs/contribute/tags.md",
     "content/docs/contribute/howtostart.md",
     "content/docs/contribute/howtoformat.md",
-    "content/docs/fundamentals/_index.md",
-    "content/docs/seafonapage/docstructure.excalidraw.png",
-    "content/docs/seafonapage/docstructure.excalidraw.md",
-    "static/docstructure.excalidraw.png",
-    "Pasted Image 20250402180703_209.png",
-    "static/image1.png",
-    "content/docs/_index.md",
-    "content/ObsidianVault/СООБЩЕСТВО SEAF/Теги (топики, темы) SEAF.md",
-    "content/docs/contribute/todoBOK.md",
-    "content/ObsidianVault/СООБЩЕСТВО SEAF/1.1. Миссия и цели Сообщетва SEAF.excalidraw.md",
     "content/docs/contribute/howtoadd.md",
     "content/docs/contribute/contributors.md",
+    "content/docs/fundamentals/_index.md",
+    "seafonapage",
+    "content/docs/seafonapage/docstructure.excalidraw.png",
+    "static/image1.png",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/1.1. Миссия и цели Сообщетва SEAF.excalidraw.md",
     "контриьбюторы.md",
     "README.md",
     "README.md~",
@@ -213,19 +216,16 @@
     "content/menu/_index.md",
     "themes/hugo-book/archetypes/docs.md",
     "content/docs/fundamentals/values4analysts/index.md",
-    "content/docs/posts/Reverse engineering/_index.md",
     "content/docs/posts/Reverse engineering/image3.png",
     "content/docs/fundamentals/values4bank",
     "static/rev_idea/image8.png",
     "static/rev_idea/image9.png",
-    "static/rev_idea/image3.png",
     "static/rev_idea",
     "content/docs/posts/Reverse engineering/rev_idea",
     "content/docs/posts/Reverse engineering/img/media",
     "content/docs/posts/Reverse engineering/img",
     "content/docs/posts/Reverse engineering/PSI_IDEA.md~",
     "Без названия 3.canvas",
-    "Новый проект2.mp4",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

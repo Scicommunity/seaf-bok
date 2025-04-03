@@ -1,5 +1,5 @@
 ---
-title: "Как добавить статью SEAF Base Of Knowledge"
+title: "Как добавить статью"
 weight: 10
 # bookFlatSection: false
 # bookToc: true

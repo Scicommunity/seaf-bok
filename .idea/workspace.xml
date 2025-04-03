@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Обновление readme">
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Перенос перечня тегов SEAF в BOK">
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/drawio-obsidian/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/drawio-obsidian/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/drawio-obsidian/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.obsidian/plugins/drawio-obsidian/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/SEAF TAGS.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/tags.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/docs/contribute/todolist.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/ProductCode.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/Values4ProdTeam.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
@@ -44,20 +51,17 @@
       <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/Pasted Image 20250402180703_209.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/community-plugins.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/community-plugins.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/ObsidianVault/СООБЩЕСТВО SEAF/Теги (топики, темы) SEAF.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/ObsidianVault/СООБЩЕСТВО SEAF/Теги (топики, темы) SEAF.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pasted Image 20250402180703_209.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/ObsidianVault/СООБЩЕСТВО SEAF/Теги (топики, темы) SEAF.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/docs/contribute/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/contribute/contributors.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/contributors.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/contribute/format.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/docs/contribute/howtoadd.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/howtoadd.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/contribute/howtoformat.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/howtoformat.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/docs/contribute/howtostart.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/contribute/howtostart.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/contribute/todo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/contribute/todoBOK.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/fundamentals/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/docs/seafonapage/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/seafonapage/_index.md" afterDir="false" />
     </list>
@@ -65,6 +69,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -196,7 +205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743594428567</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Доработка раздела contribute">
+      <option name="closed" value="true" />
+      <created>1743615085941</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743615085941</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Перенос перечня тегов SEAF в BOK">
+      <option name="closed" value="true" />
+      <created>1743685128474</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743685128474</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +259,8 @@
     <MESSAGE value="Редактирование fundamentals, разнесение по заметкам, редактирование тегов" />
     <MESSAGE value="небольшие правки в структуре файлов" />
     <MESSAGE value="Обновление readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновление readme" />
+    <MESSAGE value="Доработка раздела contribute" />
+    <MESSAGE value="Перенос перечня тегов SEAF в BOK" />
+    <option name="LAST_COMMIT_MESSAGE" value="Перенос перечня тегов SEAF в BOK" />
   </component>
 </project>

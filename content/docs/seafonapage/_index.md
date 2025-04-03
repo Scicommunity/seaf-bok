@@ -9,6 +9,8 @@ bookCollapseSection: false
 # bookSearchExclude: false
 tags:
   - seafonapage
+aliases:
+  - seafonapage
 ---
 
 ## **Для кого создается SEAF?**
@@ -52,7 +54,7 @@ tags:
 <div style="text-align: center">⁂</div>
 
 
-## **Структура документации SEAF**
+## **Структура документации SEAF** {#seafdocstructure}
 
 
 

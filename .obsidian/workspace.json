@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a653da0bf06ab1fe",
+        "id": "3f7fe0b8f3baed0f",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b11f7b351f0fc3",
+            "id": "721225f0a1b019eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#docsascode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 325.5
   },
   "right": {
     "id": "2dace323d37d6b22",
@@ -154,7 +158,8 @@
               "title": "Структура"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,29 +179,35 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "c9b11f7b351f0fc3",
+  "active": "721225f0a1b019eb",
   "lastOpenFiles": [
-    "content/docs/contribute/_index.md",
-    "content/docs/contribute/todolist.md",
-    "content/docs/contribute/howtomarkdata.md",
-    "content/docs/seafonapage/_index.md",
-    "content/docs/seafonapage/docstructure.excalidraw.md",
+    "content/docs/guides/contribute/_index.md",
+    "content/docs/guides/_index.md",
+    "content/docs/guides/contribute/contributors.md",
+    "content/docs/guides/contribute/howtoformat.md",
+    "content/docs/guides/contribute/howtomarkdata.md",
+    "content/docs/guides/contribute/howtostart.md",
+    "content/docs/guides/contribute/howtoadd.md",
+    "content/docs/guides/contribute/tags.md",
+    "content/docs/fundamentals/values4ProductTeams/index.md",
+    "content/docs/fundamentals/_index.md",
+    "content/docs/fundamentals/values4bank/values4bank.md",
+    "content/docs/fundamentals/values4analysts/index.md",
+    "content/docs/guides/contribute/SEAF TAGS.drawio",
+    "202504041712.md",
     "content/docs/_index.md",
+    "content/docs/seafonapage/_index.md",
+    "content/docs/guides/contribute/todolist.md",
+    "content/docs/seafonapage/docstructure.excalidraw.md",
     "seafonapage/_index.md",
     "static/Values4ProdTeam.png",
     "static/ProductCode.png",
     "static/Pasted Image 20250402180703_209.png",
     "static/docstructure.excalidraw.png",
-    "content/docs/contribute/SEAF TAGS.drawio",
-    "content/docs/contribute/tags.md",
-    "content/docs/contribute/howtostart.md",
-    "content/docs/contribute/howtoformat.md",
-    "content/docs/contribute/howtoadd.md",
-    "content/docs/contribute/contributors.md",
-    "content/docs/fundamentals/_index.md",
     "seafonapage",
     "content/docs/seafonapage/docstructure.excalidraw.png",
     "static/image1.png",
@@ -211,11 +222,7 @@
     "Ценности SEAF для аналитиков.md",
     "image20.png.md",
     "image20.png 2.md",
-    "image20.png 1.md",
     "static/image20.png",
-    "content/menu/_index.md",
-    "themes/hugo-book/archetypes/docs.md",
-    "content/docs/fundamentals/values4analysts/index.md",
     "content/docs/posts/Reverse engineering/image3.png",
     "content/docs/fundamentals/values4bank",
     "static/rev_idea/image8.png",

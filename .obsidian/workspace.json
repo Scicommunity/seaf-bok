@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7fe0b8f3baed0f",
+        "id": "a8b812f05a809a28",
         "type": "tabs",
         "children": [
           {
-            "id": "721225f0a1b019eb",
+            "id": "bc3dca14f03f5e5f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 242.5
   },
   "right": {
     "id": "2dace323d37d6b22",
@@ -177,26 +177,27 @@
       "zk-prefixer:Создать заметку с уникальным идентификатором": false,
       "publish:Публикация изменений": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "github-sync:Sync with Remote": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "721225f0a1b019eb",
+  "active": "bc3dca14f03f5e5f",
   "lastOpenFiles": [
+    "content/docs/fundamentals/_index.md",
+    "content/docs/fundamentals/refprocs/_index.md",
+    "content/docs/fundamentals/values4org/index.md",
+    "content/docs/fundamentals/values4analysts/index.md",
+    "content/docs/fundamentals/values4ProductTeams/index.md",
     "content/docs/guides/contribute/_index.md",
-    "content/docs/guides/_index.md",
     "content/docs/guides/contribute/contributors.md",
+    "content/docs/fundamentals/refprocs",
+    "content/docs/guides/_index.md",
     "content/docs/guides/contribute/howtoformat.md",
     "content/docs/guides/contribute/howtomarkdata.md",
     "content/docs/guides/contribute/howtostart.md",
     "content/docs/guides/contribute/howtoadd.md",
     "content/docs/guides/contribute/tags.md",
-    "content/docs/fundamentals/values4ProductTeams/index.md",
-    "content/docs/fundamentals/_index.md",
-    "content/docs/fundamentals/values4bank/values4bank.md",
-    "content/docs/fundamentals/values4analysts/index.md",
     "content/docs/guides/contribute/SEAF TAGS.drawio",
     "202504041712.md",
     "content/docs/_index.md",
@@ -221,17 +222,15 @@
     "Без названия.md",
     "Ценности SEAF для аналитиков.md",
     "image20.png.md",
-    "image20.png 2.md",
     "static/image20.png",
     "content/docs/posts/Reverse engineering/image3.png",
-    "content/docs/fundamentals/values4bank",
+    "content/docs/fundamentals/values4org",
     "static/rev_idea/image8.png",
     "static/rev_idea/image9.png",
     "static/rev_idea",
     "content/docs/posts/Reverse engineering/rev_idea",
     "content/docs/posts/Reverse engineering/img/media",
     "content/docs/posts/Reverse engineering/img",
-    "content/docs/posts/Reverse engineering/PSI_IDEA.md~",
     "Без названия 3.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",

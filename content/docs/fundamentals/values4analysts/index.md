@@ -1,12 +1,6 @@
 ---
 title: Ценностное предложение для бизнес- и системных аналитиков
-weight: 4
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: true
-# bookComments: false
-# bookSearchExclude: false
+weight: 1
 aliases:
   - Ценности SEAF для аналитиков
 ---

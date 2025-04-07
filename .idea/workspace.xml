@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Перенос раздела How to start and contribute, наполнение концепции управления документами">
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="временное выведение из публикации ценностей для организации от публикации и развития SEAF">
       <change afterPath="$PROJECT_DIR$/public/ProductCode.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/Values4ProdTeam.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
@@ -45,11 +45,20 @@
       <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/tags.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/tags.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -213,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743784705967</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Добавление раздела референсные процессы, общие определения, роль и использование референсных процессов во внедрении SEAF &quot;сверху вниз&quot;">
+      <option name="closed" value="true" />
+      <created>1743957850408</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1743957850408</updated>
+    </task>
+    <task id="LOCAL-00016" summary="временное выведение из публикации ценностей для организации от публикации и развития SEAF">
+      <option name="closed" value="true" />
+      <created>1743966508135</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1743966508135</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +280,8 @@
     <MESSAGE value="Перенос перечня тегов SEAF в BOK" />
     <MESSAGE value="Доработка раздела How to start and contribute" />
     <MESSAGE value="Перенос раздела How to start and contribute, наполнение концепции управления документами" />
-    <option name="LAST_COMMIT_MESSAGE" value="Перенос раздела How to start and contribute, наполнение концепции управления документами" />
+    <MESSAGE value="Добавление раздела референсные процессы, общие определения, роль и использование референсных процессов во внедрении SEAF &quot;сверху вниз&quot;" />
+    <MESSAGE value="временное выведение из публикации ценностей для организации от публикации и развития SEAF" />
+    <option name="LAST_COMMIT_MESSAGE" value="временное выведение из публикации ценностей для организации от публикации и развития SEAF" />
   </component>
 </project>

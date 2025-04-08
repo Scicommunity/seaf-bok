@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="временное выведение из публикации ценностей для организации от публикации и развития SEAF">
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Доработка раздела How to Contribute, редактирование текста, дополнение заметками по основным концепциям.">
+      <change afterPath="$PROJECT_DIR$/content/docs/guides/contribute/SEAF TAGS COPY.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/ProductCode.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/Values4ProdTeam.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
@@ -45,10 +46,10 @@
       <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/plugins/obsidian-excalidraw-plugin/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/tags.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/tags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/SEAF TAGS.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/SEAF TAGS.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/todolist.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/todolist.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743966508135</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Доработка раздела How to Contribute, редактирование текста, дополнение заметками по основным концепциям.">
+      <option name="closed" value="true" />
+      <created>1744048670450</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1744048670450</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +291,7 @@
     <MESSAGE value="Перенос раздела How to start and contribute, наполнение концепции управления документами" />
     <MESSAGE value="Добавление раздела референсные процессы, общие определения, роль и использование референсных процессов во внедрении SEAF &quot;сверху вниз&quot;" />
     <MESSAGE value="временное выведение из публикации ценностей для организации от публикации и развития SEAF" />
-    <option name="LAST_COMMIT_MESSAGE" value="временное выведение из публикации ценностей для организации от публикации и развития SEAF" />
+    <MESSAGE value="Доработка раздела How to Contribute, редактирование текста, дополнение заметками по основным концепциям." />
+    <option name="LAST_COMMIT_MESSAGE" value="Доработка раздела How to Contribute, редактирование текста, дополнение заметками по основным концепциям." />
   </component>
 </project>

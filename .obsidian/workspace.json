@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8e75a8d8a01f17da",
+        "id": "ef50079057e2a44b",
         "type": "tabs",
         "children": [
           {
-            "id": "83be15e8f7b1d3b7",
+            "id": "40adbb5e442a762a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/docs/posts/AI/202504081849.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "202504081849"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 557.5
+    "width": 445.5
   },
   "right": {
     "id": "2dace323d37d6b22",
@@ -178,8 +182,13 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "83be15e8f7b1d3b7",
+  "active": "40adbb5e442a762a",
   "lastOpenFiles": [
+    "content/docs/posts/Reverse engineering/_index.md",
+    "content/docs/posts/AI/202504081849.md",
+    "content/docs/posts/Reverse engineering/image3.png",
+    "content/docs/posts/Reverse engineering/RE of PSI IntelliJ IDEA.md",
+    "content/docs/posts/AI",
     "content/docs/guides/contribute/todolist.md",
     "content/docs/guides/contribute/SEAF TAGS.drawio",
     "content/docs/guides/contribute/tags.md",
@@ -212,20 +221,15 @@
     "seafonapage",
     "content/docs/seafonapage/docstructure.excalidraw.png",
     "static/image1.png",
-    "content/ObsidianVault/СООБЩЕСТВО SEAF/1.1. Миссия и цели Сообщетва SEAF.excalidraw.md",
-    "контриьбюторы.md",
-    "README.md",
     "README.md~",
     "content/docs/fundamentals/_index.md~",
     "Без названия.canvas",
     "static/image20.png",
-    "content/docs/posts/Reverse engineering/image3.png",
     "content/docs/fundamentals/values4org",
     "static/rev_idea/image8.png",
     "static/rev_idea",
     "content/docs/posts/Reverse engineering/rev_idea",
     "content/docs/posts/Reverse engineering/img/media",
-    "content/docs/posts/Reverse engineering/img",
     "Без названия 3.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",

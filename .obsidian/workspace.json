@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef50079057e2a44b",
+        "id": "67c272d69d1df30a",
         "type": "tabs",
         "children": [
           {
-            "id": "40adbb5e442a762a",
+            "id": "185d3e89f422fea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/docs/posts/AI/202504081849.md",
+                "file": "content/docs/guides/contribute/seafknowledge.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202504081849"
+              "title": "seafknowledge"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 439.5
   },
   "right": {
     "id": "2dace323d37d6b22",
@@ -122,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/docs/guides/contribute/seafknowledge.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из seafknowledge"
             }
           },
           {
@@ -150,21 +151,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/docs/guides/contribute/seafknowledge.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура seafknowledge"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,62 +180,64 @@
       "templater-obsidian:Templater": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "40adbb5e442a762a",
+  "active": "56340a1d9c381e02",
   "lastOpenFiles": [
-    "content/docs/posts/Reverse engineering/_index.md",
-    "content/docs/posts/AI/202504081849.md",
-    "content/docs/posts/Reverse engineering/image3.png",
-    "content/docs/posts/Reverse engineering/RE of PSI IntelliJ IDEA.md",
-    "content/docs/posts/AI",
-    "content/docs/guides/contribute/todolist.md",
-    "content/docs/guides/contribute/SEAF TAGS.drawio",
+    "content/docs/guides/contribute/Темы для проработки Рабочей группой SEAF.md",
+    "content/docs/guides/contribute/Knowledgekpi.svg",
+    "content/docs/guides/contribute/knowledgemachine.svg",
+    "content/docs/guides/contribute/seafknowledge.md",
+    "content/docs/guides/contribute/stakeholders.svg",
     "content/docs/guides/contribute/tags.md",
-    "content/docs/seafonapage/docstructure.excalidraw.md",
-    "content/docs/seafonapage/_index.md",
-    "content/docs/guides/contribute/howtostarthugo.md",
+    "content/docs/guides/contribute/todolist.md",
+    "content/docs/guides/contribute/Untitled Diagram.svg",
+    "content/docs/guides/contribute/dimensionofknowledgecollectiveness.svg",
+    "content/docs/guides/contribute/deep.md",
     "content/docs/guides/contribute/contributors.md",
-    "content/docs/guides/contribute/_index.md",
-    "content/docs/guides/contribute/ZettelKasten.md",
-    "content/docs/guides/contribute/howtostart.md",
-    "content/docs/_index.md",
-    "content/docs/guides/contribute/SEAF TAGS COPY.svg",
+    "content/docs/guides/contribute/Conflvls.svg",
+    "content/docs/guides/contribute/Вопросы к рассмотрению (разобрать).svg",
     "content/docs/guides/contribute/202504071852.md",
-    "content/docs/fundamentals/values4org/index.md",
-    "content/docs/fundamentals/_index.md",
-    "content/docs/fundamentals/refprocs/_index.md",
-    "content/docs/fundamentals/values4analysts/index.md",
-    "content/docs/fundamentals/values4ProductTeams/index.md",
-    "content/docs/fundamentals/refprocs",
-    "content/docs/guides/_index.md",
-    "content/docs/guides/contribute/howtoformat.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/План мероприятий SEAF_2024Q3-4_v2.excalidraw.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/что-то про стратегию со старого холста моего.excalidraw.excalidraw.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/что-то про стратегию со старого холста 11.54.34.excalidraw.md",
+    "content/ObsidianVault/SEAF.sci.community/Drawing 2025-03-17 13.31.23.excalidraw.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/ЧЕГО МЫ ХОТИМ ОТ SEAF.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/Сообщество SEAF tobe v2.excalidraw.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/Рекомендации Андрея Блинова по развитию SEAF в части управления знаниями, формирования базы знаний.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/План мероприятий SEAF_2024Q1-2.excalidraw.md",
+    "content/ObsidianVault/СООБЩЕСТВО SEAF/План мероприятий SEAF и прочее (архив)_v0.1.excalidraw.md",
+    "content/docs/guides/contribute/dimentionofknowledgeconcrete.svg",
+    "Knowledge Cube v1.jpg",
+    "content/docs/guides/contribute/dimensionofknowledgenewness.svg",
+    "content/docs/guides/contribute/othernotes/Что такое deepwiki.md",
+    "content/docs/guides/contribute/SEAF TAGS.drawio",
+    "content/docs/guides/contribute/othernotes/deepwiki.md",
+    "content/docs/guides/contribute/_index.md",
     "content/docs/guides/contribute/howtomarkdata.md",
-    "content/docs/guides/contribute/howtoadd.md",
-    "202504041712.md",
+    "content/docs/guides/_index.md",
     "seafonapage/_index.md",
-    "static/Values4ProdTeam.png",
-    "static/ProductCode.png",
-    "static/Pasted Image 20250402180703_209.png",
-    "static/docstructure.excalidraw.png",
+    "content/docs/guides/contribute/howtoformat.md",
+    "content/docs/guides/contribute/howtostart.md",
+    "content/docs/fundamentals/_index.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "content/docs/guides/contribute/othernotes",
+    "content/docs/posts/AI",
+    "content/docs/fundamentals/refprocs",
     "seafonapage",
-    "content/docs/seafonapage/docstructure.excalidraw.png",
-    "static/image1.png",
     "README.md~",
     "content/docs/fundamentals/_index.md~",
-    "Без названия.canvas",
-    "static/image20.png",
     "content/docs/fundamentals/values4org",
-    "static/rev_idea/image8.png",
     "static/rev_idea",
     "content/docs/posts/Reverse engineering/rev_idea",
-    "content/docs/posts/Reverse engineering/img/media",
     "Без названия 3.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Без названия 2.canvas",
-    "Без названия 1.canvas"
+    "Без названия 2.canvas"
   ]
 }

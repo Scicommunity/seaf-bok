@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"
-  ]
+  ],
+  "theme": "obsidian",
+  "baseFontSizeAction": true
 }

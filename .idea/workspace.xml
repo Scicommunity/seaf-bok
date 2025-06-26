@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Черновая версия презентации об управлении знаниями в SEAF. Дополнительные заметки.">
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="перенос трех моделей в каталог, мелкие доработки информации по управлению знаниями">
       <change afterPath="$PROJECT_DIR$/public/ProductCode.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/Values4ProdTeam.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
@@ -45,11 +45,6 @@
       <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/appearance.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/appearance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/knowledgeformsin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/knowledgeformsout.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/seafknowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/seafknowledge.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750172791449</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="перенос трех моделей в каталог, мелкие доработки информации по управлению знаниями">
+      <option name="closed" value="true" />
+      <created>1750695473877</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1750695473877</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -355,6 +358,7 @@
     <MESSAGE value="Добавление информации о deepwiki и fixgpt для управления знаниями, а также тестовых файлов для создания презентаций с помощью стандартного (core) плагина slides в obsidian. Включение плагина slides и комбинации клавиш ctrl+shift+P для запуска презентации." />
     <MESSAGE value="Черновая версия презентации об управлении знаниями в SEAF." />
     <MESSAGE value="Черновая версия презентации об управлении знаниями в SEAF. Дополнительные заметки." />
-    <option name="LAST_COMMIT_MESSAGE" value="Черновая версия презентации об управлении знаниями в SEAF. Дополнительные заметки." />
+    <MESSAGE value="перенос трех моделей в каталог, мелкие доработки информации по управлению знаниями" />
+    <option name="LAST_COMMIT_MESSAGE" value="перенос трех моделей в каталог, мелкие доработки информации по управлению знаниями" />
   </component>
 </project>

@@ -1,0 +1,576 @@
+Index: public/tags/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/tags/index.xml b/public/tags/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571558)
++++ b/public/tags/index.xml	(date 1743091571558)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Tags on SEAF NOTES</title>
++    <link>https://sci.community/tags/</link>
++    <description>Recent content in Tags on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/tags/index.xml" rel="self" type="application/rss+xml" />
++  </channel>
++</rss>
+Index: public/docs/guides/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/guides/index.xml b/public/docs/guides/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571560)
++++ b/public/docs/guides/index.xml	(date 1743091571560)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Guides on SEAF NOTES</title>
++    <link>https://sci.community/docs/guides/</link>
++    <description>Recent content in Guides on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/guides/index.xml" rel="self" type="application/rss+xml" />
++  </channel>
++</rss>
+Index: public/sitemap.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/sitemap.xml b/public/sitemap.xml
+new file mode 100644
+--- /dev/null	(date 1743091571556)
++++ b/public/sitemap.xml	(date 1743091571556)
+@@ -0,0 +1,52 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
++  xmlns:xhtml="http://www.w3.org/1999/xhtml">
++  <url>
++    <loc>https://sci.community/docs/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/posts/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/rabbithole/videos/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/rabbithole/books/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/posts/triadicontology/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/posts/codesmell/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/seafonapage/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/fundamentals/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/guides/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/example/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/contribute/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/contribute/howtostart/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/rabbithole/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/contribute/format/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/contribute/howtoadd/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/fundamentals/values4analysts/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/contribute/todo/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/contribute/contributors/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/fundamentals/values4productteams/</loc>
++  </url><url>
++    <loc>https://sci.community/docs/posts/reverse-engineering/</loc>
++  </url><url>
++    <loc>https://sci.community/</loc>
++    <lastmod>2025-03-19T19:56:36+03:00</lastmod>
++  </url><url>
++    <loc>https://sci.community/categories/</loc>
++  </url><url>
++    <loc>https://sci.community/tags/</loc>
++  </url>
++</urlset>
+Index: public/categories/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/categories/index.xml b/public/categories/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571561)
++++ b/public/categories/index.xml	(date 1743091571561)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Categories on SEAF NOTES</title>
++    <link>https://sci.community/categories/</link>
++    <description>Recent content in Categories on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/categories/index.xml" rel="self" type="application/rss+xml" />
++  </channel>
++</rss>
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7ce7517f-5644-452d-a3c3-d2f09827119c\" name=\"Changes\" comment=\"Мелкие доработки информации по управлению знаниями\">\r\n      <change afterPath=\"$PROJECT_DIR$/content/docs/guides/contribute/Untitled Diagram 1.svg\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/ProductCode.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/Values4ProdTeam.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/categories/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/contribute/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/example/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/fundamentals/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/guides/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/posts/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/posts/reverse-engineering/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/rabbithole/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/docs/seafonapage/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image1.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image10.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image11.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image12.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image13.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image14.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image15.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image16.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image17.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image18.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image19.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image2.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image20.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image21.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image22.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image23.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image24.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image3.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image4.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image5.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image6.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image7.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image8.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/image9.png\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/index.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/sitemap.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/public/tags/index.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.obsidian/workspace.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.obsidian/workspace.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/content/docs/guides/contribute/models/knowledgeformsout.svg\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/content/docs/guides/contribute/models/knowledgeformsout.svg\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/content/docs/guides/contribute/seafknowledge.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/content/docs/guides/contribute/seafknowledge.md\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ChangesViewManager\">\r\n    <option name=\"groupingKeys\">\r\n      <option value=\"directory\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"HARD\" />\r\n    <option name=\"ROOT_SYNC\" value=\"DONT_SYNC\" />\r\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2t4RXtaqyUGTs93kvXdQS4jC6Mz\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/quickstart/releases/seaf-bok/static&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\quickstart\\releases\\seaf-bok\\content\\docs\\posts\\Reverse engineering\" />\r\n      <recent name=\"C:\\quickstart\\releases\\seaf-bok\\content\" />\r\n      <recent name=\"C:\\quickstart\\releases\\seaf-bok\" />\r\n      <recent name=\"C:\\quickstart\\releases\\seaf-bok\\content\\docs\\contribute\" />\r\n      <recent name=\"C:\\quickstart\\releases\\seaf-bok\\static\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\quickstart\\releases\\seaf-bok\\static\" />\r\n      <recent name=\"C:\\quickstart\\releases\\seaf-bok\\content\\docs\\posts\\Reverse engineering\\img\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7ce7517f-5644-452d-a3c3-d2f09827119c\" name=\"Changes\" comment=\"\" />\r\n      <created>1739609404259</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1739609404259</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"First three docs\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739724442861</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739724442861</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Уточнение и расширение целевой аудитории SEAF\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1739782609432</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1739782609432</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1742480734587</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1742480734588</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743008932715</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743008932715</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Обновление файла contributors.md\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743092224088</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743092224088</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Обновление файла contributors.md\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743092355044</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743092355044</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Интеграция предыдущих заметок о SEAF для целей распределенной доработки документации\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743093772327</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743093772327</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Публикация результатов обратного инжиниринга IntelliJ IDEA по исходному коду с GitHub\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743096964575</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743096964575</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"небольшие правки в структуре файлов\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743593930700</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743593930700</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Обновление readme\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743594428567</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743594428567</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Доработка раздела contribute\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743615085941</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743615085941</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Перенос перечня тегов SEAF в BOK\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743685128474</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743685128474</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Доработка раздела How to start and contribute\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743703430182</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743703430182</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Перенос раздела How to start and contribute, наполнение концепции управления документами\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743784705967</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743784705967</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Добавление раздела референсные процессы, общие определения, роль и использование референсных процессов во внедрении SEAF &quot;сверху вниз&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743957850408</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743957850408</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"временное выведение из публикации ценностей для организации от публикации и развития SEAF\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1743966508135</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1743966508135</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Доработка раздела How to Contribute, редактирование текста, дополнение заметками по основным концепциям.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1744048670450</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1744048670450</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"Доработка раздела How to Contribute, редактирование текста, дополнение заметками по основным концепциям.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1744102633060</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1744102633060</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"Включение раздела про AI для SEAF и первых ссылок на изучение ресурсов по AI\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1744127933347</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1744127933347</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"Корректировка тегов для управления связями заметок (в соответствии с внутренней договоренностью в SEAF)\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746431670996</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746431670996</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"Дополннение инструкции по клонированию и запуску локального сервера Hugo\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746435837936</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746435837936</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"Корректировка инструкции по клонированию и запуску локального сервера Hugo\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746436032993</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746436032993</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"Добавление информации о deepwiki и fixgpt для управления знаниями, а также тестовых файлов для создания презентаций с помощью стандартного (core) плагина slides в obsidian. Включение плагина slides и комбинации клавиш ctrl+shift+P для запуска презентации.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1746732248889</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1746732248889</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"Черновая версия презентации об управлении знаниями в SEAF. Дополнительные заметки.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750172791449</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750172791449</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"перенос трех моделей в каталог, мелкие доработки информации по управлению знаниями\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750695473877</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750695473877</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"Мелкие доработки информации по управлению знаниями\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750932100156</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750932100156</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"27\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"Уточнение и расширение целевой аудитории SEAF\" />\r\n    <MESSAGE value=\"Добавление разделов меню;&#10;Добавление поста об онтологической модели Эрика Бернса&#10;Добавление структуры каталога docs и заготовок некоторых документов (страниц)\" />\r\n    <MESSAGE value=\"Загрузка Fundamentals с внутренних ресурсов без структурирования на заметки\" />\r\n    <MESSAGE value=\"Обновление файла contributors.md\" />\r\n    <MESSAGE value=\"Интеграция предыдущих заметок о SEAF для целей распределенной доработки документации\" />\r\n    <MESSAGE value=\"Публикация результатов обратного инжиниринга IntelliJ IDEA по исходному коду с GitHub\" />\r\n    <MESSAGE value=\"Редактирование fundamentals, разнесение по заметкам, редактирование тегов\" />\r\n    <MESSAGE value=\"небольшие правки в структуре файлов\" />\r\n    <MESSAGE value=\"Обновление readme\" />\r\n    <MESSAGE value=\"Доработка раздела contribute\" />\r\n    <MESSAGE value=\"Перенос перечня тегов SEAF в BOK\" />\r\n    <MESSAGE value=\"Доработка раздела How to start and contribute\" />\r\n    <MESSAGE value=\"Перенос раздела How to start and contribute, наполнение концепции управления документами\" />\r\n    <MESSAGE value=\"Добавление раздела референсные процессы, общие определения, роль и использование референсных процессов во внедрении SEAF &quot;сверху вниз&quot;\" />\r\n    <MESSAGE value=\"временное выведение из публикации ценностей для организации от публикации и развития SEAF\" />\r\n    <MESSAGE value=\"Доработка раздела How to Contribute, редактирование текста, дополнение заметками по основным концепциям.\" />\r\n    <MESSAGE value=\"Включение раздела про AI для SEAF и первых ссылок на изучение ресурсов по AI\" />\r\n    <MESSAGE value=\"Корректировка тегов для управления связями заметок (в соответствии с внутренней договоренностью в SEAF)\" />\r\n    <MESSAGE value=\"Дополннение инструкции по клонированию и запуску локального сервера Hugo\" />\r\n    <MESSAGE value=\"Корректировка инструкции по клонированию и запуску локального сервера Hugo\" />\r\n    <MESSAGE value=\"Добавление информации о deepwiki и fixgpt для управления знаниями, а также тестовых файлов для создания презентаций с помощью стандартного (core) плагина slides в obsidian. Включение плагина slides и комбинации клавиш ctrl+shift+P для запуска презентации.\" />\r\n    <MESSAGE value=\"Черновая версия презентации об управлении знаниями в SEAF.\" />\r\n    <MESSAGE value=\"Черновая версия презентации об управлении знаниями в SEAF. Дополнительные заметки.\" />\r\n    <MESSAGE value=\"перенос трех моделей в каталог, мелкие доработки информации по управлению знаниями\" />\r\n    <MESSAGE value=\"Мелкие доработки информации по управлению знаниями\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Мелкие доработки информации по управлению знаниями\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision ea373155d6a3c720aa87a45873146f3b69c2a7bf)
++++ b/.idea/workspace.xml	(date 1751824075597)
+@@ -5,7 +5,6 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Мелкие доработки информации по управлению знаниями">
+-      <change afterPath="$PROJECT_DIR$/content/docs/guides/contribute/Untitled Diagram 1.svg" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/public/ProductCode.png" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/public/Values4ProdTeam.png" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+@@ -46,9 +45,8 @@
+       <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/models/knowledgeformsout.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/models/knowledgeformsout.svg" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/seafknowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/seafknowledge.md" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -318,7 +316,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1750932100156</updated>
+     </task>
+-    <option name="localTasksCounter" value="27" />
++    <task id="LOCAL-00027" summary="Мелкие доработки информации по управлению знаниями">
++      <option name="closed" value="true" />
++      <created>1751823595495</created>
++      <option name="number" value="00027" />
++      <option name="presentableId" value="LOCAL-00027" />
++      <option name="project" value="LOCAL" />
++      <updated>1751823595495</updated>
++    </task>
++    <option name="localTasksCounter" value="28" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+Index: public/docs/example/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/example/index.xml b/public/docs/example/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571560)
++++ b/public/docs/example/index.xml	(date 1743091571560)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Examples on SEAF NOTES</title>
++    <link>https://sci.community/docs/example/</link>
++    <description>Recent content in Examples on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/example/index.xml" rel="self" type="application/rss+xml" />
++  </channel>
++</rss>
+Index: public/docs/contribute/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/contribute/index.xml b/public/docs/contribute/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571563)
++++ b/public/docs/contribute/index.xml	(date 1743091571563)
+@@ -0,0 +1,46 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Contribute on SEAF NOTES</title>
++    <link>https://sci.community/docs/contribute/</link>
++    <description>Recent content in Contribute on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/contribute/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>Как начать использовать SEAF Base Of Knowledge</title>
++      <link>https://sci.community/docs/contribute/howtostart/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/howtostart/</guid>
++      <description>#Как начать использовать SEAF Base Of Knowledge</description>
++    </item>
++    <item>
++      <title>Как оформить статью SEAF Base Of Knowledge</title>
++      <link>https://sci.community/docs/contribute/format/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/format/</guid>
++      <description>##Как оформить контент в SEAF Base Of Knowledge:&#xA;Пост SEAF Fundamentals SEAF QuickStart Guide </description>
++    </item>
++    <item>
++      <title>Как добавить статью SEAF Base Of Knowledge</title>
++      <link>https://sci.community/docs/contribute/howtoadd/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/howtoadd/</guid>
++      <description>##Как оформить контент в SEAF Base Of Knowledge:&#xA;Пост SEAF Fundamentals SEAF QuickStart Guide </description>
++    </item>
++    <item>
++      <title>TODO LIST</title>
++      <link>https://sci.community/docs/contribute/todo/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/todo/</guid>
++      <description>##TODO LIST:&#xA;Добавить раздел про количество метамоделей SEAF&#xA;Добавить раздел про составные части развития архитектора будущего: способности к анализу, синтезу и творчеству. Про расширение 16 психотипов (в ТГ наметки от темура из perplexity). творческий потенциал/design thinking / стрим из composable architecture&#xA;Провести анализ и доработку совместно с ребровым по терминологии, опроснику с поиском целевого ДЗО для совершенствования процесса разработки. Провести доработку предложения в AI инициативы (сейчас там рабочая версия только)</description>
++    </item>
++    <item>
++      <title>Contributors</title>
++      <link>https://sci.community/docs/contribute/contributors/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/contributors/</guid>
++      <description>##Участники разработки SEAF:&#xA;Maintainer NinthArchitect, если иное не указано в отдельных разделах.&#xA;Рецензенты, контрибьюторы, мейнтейнеры отдельных разделов: altershaman xantia88 Черепанов Евгений Валерьевич ,&#xA;и другие (по мере наполнения обновлять).</description>
++    </item>
++  </channel>
++</rss>
+Index: public/docs/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/index.xml b/public/docs/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571562)
++++ b/public/docs/index.xml	(date 1743091571562)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Docs on SEAF NOTES</title>
++    <link>https://sci.community/docs/</link>
++    <description>Recent content in Docs on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/index.xml" rel="self" type="application/rss+xml" />
++  </channel>
++</rss>
+Index: public/docs/rabbithole/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/rabbithole/index.xml b/public/docs/rabbithole/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571563)
++++ b/public/docs/rabbithole/index.xml	(date 1743091571563)
+@@ -0,0 +1,25 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Rabbithole on SEAF NOTES</title>
++    <link>https://sci.community/docs/rabbithole/</link>
++    <description>Recent content in Rabbithole on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/rabbithole/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>Видео</title>
++      <link>https://sci.community/docs/rabbithole/videos/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/rabbithole/videos/</guid>
++      <description>Ссылки на записи ппроведенных мероприятий</description>
++    </item>
++    <item>
++      <title>Книги</title>
++      <link>https://sci.community/docs/rabbithole/books/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/rabbithole/books/</guid>
++      <description>Перечень рекомендуемой литературы</description>
++    </item>
++  </channel>
++</rss>
+Index: public/docs/seafonapage/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/seafonapage/index.xml b/public/docs/seafonapage/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571560)
++++ b/public/docs/seafonapage/index.xml	(date 1743091571560)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>SEAF on a page on SEAF NOTES</title>
++    <link>https://sci.community/docs/seafonapage/</link>
++    <description>Recent content in SEAF on a page on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/seafonapage/index.xml" rel="self" type="application/rss+xml" />
++  </channel>
++</rss>
+Index: public/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/index.xml b/public/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571568)
++++ b/public/index.xml	(date 1743091571568)
+@@ -0,0 +1,89 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>SEAF NOTES</title>
++    <link>https://sci.community/</link>
++    <description>Recent content on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
++    <atom:link href="https://sci.community/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>Видео</title>
++      <link>https://sci.community/docs/rabbithole/videos/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/rabbithole/videos/</guid>
++      <description>Ссылки на записи ппроведенных мероприятий</description>
++    </item>
++    <item>
++      <title>Книги</title>
++      <link>https://sci.community/docs/rabbithole/books/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/rabbithole/books/</guid>
++      <description>Перечень рекомендуемой литературы</description>
++    </item>
++    <item>
++      <title>Триадическая онтология по Эрику Бернсу</title>
++      <link>https://sci.community/docs/posts/triadicontology/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/posts/triadicontology/</guid>
++      <description>Триадическая Онтология: Интегрированная Концепция Управления Знаниями через Призму Психологии и Семантических Технологий Представленная ниже концепция объединяет психологические теории Эрика Берна с современными технологиями семантической паутины и графов знаний, создавая многоуровневую интегрированную систему для управления онтологиями и метамоделями. Этот синтез позволяет не только структурировать знания в машиночитаемом формате, но и учитывать человеческие аспекты взаимодействия с информацией, включая творческое мышление, интуитивное понимание и различные состояния восприятия. В основе концепции лежит триадический подход, соединяющий психологическую структуру личности, логическую структуру знаний и технологическую инфраструктуру для их представления и обработки.</description>
++    </item>
++    <item>
++      <title>CodeSmell</title>
++      <link>https://sci.community/docs/posts/codesmell/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/posts/codesmell/</guid>
++      <description>Феномен низкокачественного программирования и его влияние на разработку &amp;ldquo;Говнокодеры&amp;rdquo; представляют собой специфическую категорию разработчиков, чья деятельность характеризуется систематическим созданием кода низкого качества, игнорированием лучших практик и сопротивлением улучшениям. Их работа часто приводит к накоплению технического долга, снижению скорости разработки и увеличению операционных рисков. Несмотря на это, такие специалисты умеют позиционировать свои решения как «быстрые победы», маскируя долгосрочные проблемы под сиюминутные выгоды. В данном исследовании анализируются принципы их работы, механизмы влияния на команды и стратегии противодействия, включая международные аналоги явления.</description>
++    </item>
++    <item>
++      <title>Как начать использовать SEAF Base Of Knowledge</title>
++      <link>https://sci.community/docs/contribute/howtostart/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/howtostart/</guid>
++      <description>#Как начать использовать SEAF Base Of Knowledge</description>
++    </item>
++    <item>
++      <title>Как оформить статью SEAF Base Of Knowledge</title>
++      <link>https://sci.community/docs/contribute/format/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/format/</guid>
++      <description>##Как оформить контент в SEAF Base Of Knowledge:&#xA;Пост SEAF Fundamentals SEAF QuickStart Guide </description>
++    </item>
++    <item>
++      <title>Как добавить статью SEAF Base Of Knowledge</title>
++      <link>https://sci.community/docs/contribute/howtoadd/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/howtoadd/</guid>
++      <description>##Как оформить контент в SEAF Base Of Knowledge:&#xA;Пост SEAF Fundamentals SEAF QuickStart Guide </description>
++    </item>
++    <item>
++      <title>Ценностное предложение для бизнес- и системных аналитиков</title>
++      <link>https://sci.community/docs/fundamentals/values4analysts/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/fundamentals/values4analysts/</guid>
++      <description>Ценностное предложение для бизнес- и системных аналитиков Целевая аудитория SEAF включает в себя бизнес- и системных аналитиков различных уровней подготовки, которые потенциально могут стать системными и корпоративными архитекторами. Их интересы обычно сосредоточены на управлении требованиями, проектировании информационных систем, знаниях по BABOK, процессных фреймворках (например, BPM CBOK), а различных нотациях, например EPC, BPMN и UML.&#xA;Наш подход к вовлечению аналитиков в производственный процесс не только инновационен, но и приносит дополнительную ценность как для результативности работы команды, так и для личного роста каждого специалиста.</description>
++    </item>
++    <item>
++      <title>TODO LIST</title>
++      <link>https://sci.community/docs/contribute/todo/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/todo/</guid>
++      <description>##TODO LIST:&#xA;Добавить раздел про количество метамоделей SEAF&#xA;Добавить раздел про составные части развития архитектора будущего: способности к анализу, синтезу и творчеству. Про расширение 16 психотипов (в ТГ наметки от темура из perplexity). творческий потенциал/design thinking / стрим из composable architecture&#xA;Провести анализ и доработку совместно с ребровым по терминологии, опроснику с поиском целевого ДЗО для совершенствования процесса разработки. Провести доработку предложения в AI инициативы (сейчас там рабочая версия только)</description>
++    </item>
++    <item>
++      <title>Contributors</title>
++      <link>https://sci.community/docs/contribute/contributors/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/contribute/contributors/</guid>
++      <description>##Участники разработки SEAF:&#xA;Maintainer NinthArchitect, если иное не указано в отдельных разделах.&#xA;Рецензенты, контрибьюторы, мейнтейнеры отдельных разделов: altershaman xantia88 Черепанов Евгений Валерьевич ,&#xA;и другие (по мере наполнения обновлять).</description>
++    </item>
++    <item>
++      <title>Ценностное предложение для Продуктовых команд</title>
++      <link>https://sci.community/docs/fundamentals/values4productteams/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/fundamentals/values4productteams/</guid>
++      <description>Ценностное предложение для Продуктовых команд SEAF предоставляет Продуктовым командам ряд преимуществ, которые являются логическим продолжением ценностей, предлагаемых бизнес- и системным аналитикам.&#xA;Организации, благодаря предлагаемым методикам, могут сфокусироваться на управлении собственными современными цифровыми продуктами, особенно в условиях, когда руководство стремится к повышению управляемости и снижению сложности.&#xA;SEAF предоставляет Продуктовым командам &amp;ldquo;катализатор&amp;rdquo; для создания и развития цифрового продукта, который помогает переиспользовать другие open-source или собственные решения и развивать собственный продукт.&#xA;Преимущества и ценности SEAF для Продуктовых команд:</description>
++    </item>
++  </channel>
++</rss>
+Index: public/docs/posts/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/posts/index.xml b/public/docs/posts/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571568)
++++ b/public/docs/posts/index.xml	(date 1743091571568)
+@@ -0,0 +1,25 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Posts on SEAF NOTES</title>
++    <link>https://sci.community/docs/posts/</link>
++    <description>Recent content in Posts on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/posts/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>Триадическая онтология по Эрику Бернсу</title>
++      <link>https://sci.community/docs/posts/triadicontology/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/posts/triadicontology/</guid>
++      <description>Триадическая Онтология: Интегрированная Концепция Управления Знаниями через Призму Психологии и Семантических Технологий Представленная ниже концепция объединяет психологические теории Эрика Берна с современными технологиями семантической паутины и графов знаний, создавая многоуровневую интегрированную систему для управления онтологиями и метамоделями. Этот синтез позволяет не только структурировать знания в машиночитаемом формате, но и учитывать человеческие аспекты взаимодействия с информацией, включая творческое мышление, интуитивное понимание и различные состояния восприятия. В основе концепции лежит триадический подход, соединяющий психологическую структуру личности, логическую структуру знаний и технологическую инфраструктуру для их представления и обработки.</description>
++    </item>
++    <item>
++      <title>CodeSmell</title>
++      <link>https://sci.community/docs/posts/codesmell/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/posts/codesmell/</guid>
++      <description>Феномен низкокачественного программирования и его влияние на разработку &amp;ldquo;Говнокодеры&amp;rdquo; представляют собой специфическую категорию разработчиков, чья деятельность характеризуется систематическим созданием кода низкого качества, игнорированием лучших практик и сопротивлением улучшениям. Их работа часто приводит к накоплению технического долга, снижению скорости разработки и увеличению операционных рисков. Несмотря на это, такие специалисты умеют позиционировать свои решения как «быстрые победы», маскируя долгосрочные проблемы под сиюминутные выгоды. В данном исследовании анализируются принципы их работы, механизмы влияния на команды и стратегии противодействия, включая международные аналоги явления.</description>
++    </item>
++  </channel>
++</rss>
+Index: public/docs/fundamentals/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/fundamentals/index.xml b/public/docs/fundamentals/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571565)
++++ b/public/docs/fundamentals/index.xml	(date 1743091571565)
+@@ -0,0 +1,25 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Fundamentals on SEAF NOTES</title>
++    <link>https://sci.community/docs/fundamentals/</link>
++    <description>Recent content in Fundamentals on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/fundamentals/index.xml" rel="self" type="application/rss+xml" />
++    <item>
++      <title>Ценностное предложение для бизнес- и системных аналитиков</title>
++      <link>https://sci.community/docs/fundamentals/values4analysts/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/fundamentals/values4analysts/</guid>
++      <description>Ценностное предложение для бизнес- и системных аналитиков Целевая аудитория SEAF включает в себя бизнес- и системных аналитиков различных уровней подготовки, которые потенциально могут стать системными и корпоративными архитекторами. Их интересы обычно сосредоточены на управлении требованиями, проектировании информационных систем, знаниях по BABOK, процессных фреймворках (например, BPM CBOK), а различных нотациях, например EPC, BPMN и UML.&#xA;Наш подход к вовлечению аналитиков в производственный процесс не только инновационен, но и приносит дополнительную ценность как для результативности работы команды, так и для личного роста каждого специалиста.</description>
++    </item>
++    <item>
++      <title>Ценностное предложение для Продуктовых команд</title>
++      <link>https://sci.community/docs/fundamentals/values4productteams/</link>
++      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
++      <guid>https://sci.community/docs/fundamentals/values4productteams/</guid>
++      <description>Ценностное предложение для Продуктовых команд SEAF предоставляет Продуктовым командам ряд преимуществ, которые являются логическим продолжением ценностей, предлагаемых бизнес- и системным аналитикам.&#xA;Организации, благодаря предлагаемым методикам, могут сфокусироваться на управлении собственными современными цифровыми продуктами, особенно в условиях, когда руководство стремится к повышению управляемости и снижению сложности.&#xA;SEAF предоставляет Продуктовым командам &amp;ldquo;катализатор&amp;rdquo; для создания и развития цифрового продукта, который помогает переиспользовать другие open-source или собственные решения и развивать собственный продукт.&#xA;Преимущества и ценности SEAF для Продуктовых команд:</description>
++    </item>
++  </channel>
++</rss>
+Index: .obsidian/graph.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"collapse-filter\": false,\r\n  \"search\": \"path:content/docs/guides  \",\r\n  \"showTags\": true,\r\n  \"showAttachments\": true,\r\n  \"hideUnresolved\": false,\r\n  \"showOrphans\": true,\r\n  \"collapse-color-groups\": false,\r\n  \"colorGroups\": [],\r\n  \"collapse-display\": false,\r\n  \"showArrow\": false,\r\n  \"textFadeMultiplier\": 0,\r\n  \"nodeSizeMultiplier\": 1,\r\n  \"lineSizeMultiplier\": 1,\r\n  \"collapse-forces\": false,\r\n  \"centerStrength\": 0.518713248970312,\r\n  \"repelStrength\": 10,\r\n  \"linkStrength\": 1,\r\n  \"linkDistance\": 250,\r\n  \"scale\": 1.476986098068678,\r\n  \"close\": true\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.obsidian/graph.json b/.obsidian/graph.json
+--- a/.obsidian/graph.json	(revision ea373155d6a3c720aa87a45873146f3b69c2a7bf)
++++ b/.obsidian/graph.json	(date 1751823992953)
+@@ -17,6 +17,6 @@
+   "repelStrength": 10,
+   "linkStrength": 1,
+   "linkDistance": 250,
+-  "scale": 1.476986098068678,
++  "scale": 2.0707092497453425,
+   "close": true
+ }
+\ No newline at end of file
+Index: public/docs/posts/reverse-engineering/index.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/public/docs/posts/reverse-engineering/index.xml b/public/docs/posts/reverse-engineering/index.xml
+new file mode 100644
+--- /dev/null	(date 1743091571560)
++++ b/public/docs/posts/reverse-engineering/index.xml	(date 1743091571560)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="utf-8" standalone="yes"?>
++<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
++  <channel>
++    <title>Reverse engineering on SEAF NOTES</title>
++    <link>https://sci.community/docs/posts/reverse-engineering/</link>
++    <description>Recent content in Reverse engineering on SEAF NOTES</description>
++    <generator>Hugo</generator>
++    <language>ru-RU</language>
++    <atom:link href="https://sci.community/docs/posts/reverse-engineering/index.xml" rel="self" type="application/rss+xml" />
++  </channel>
++</rss>
+Index: .obsidian/workspace.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n  \"main\": {\r\n    \"id\": \"6bf59b8eb8df26d8\",\r\n    \"type\": \"split\",\r\n    \"children\": [\r\n      {\r\n        \"id\": \"99e58a1d2149f13b\",\r\n        \"type\": \"tabs\",\r\n        \"children\": [\r\n          {\r\n            \"id\": \"ba12c07b86e27aba\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"empty\",\r\n              \"state\": {},\r\n              \"icon\": \"lucide-file\",\r\n              \"title\": \"Новая вкладка\"\r\n            }\r\n          }\r\n        ]\r\n      }\r\n    ],\r\n    \"direction\": \"vertical\"\r\n  },\r\n  \"left\": {\r\n    \"id\": \"31cd09614aac7c55\",\r\n    \"type\": \"split\",\r\n    \"children\": [\r\n      {\r\n        \"id\": \"c90f7c89f7534bfb\",\r\n        \"type\": \"tabs\",\r\n        \"children\": [\r\n          {\r\n            \"id\": \"fddab1e91421cf81\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"file-explorer\",\r\n              \"state\": {\r\n                \"sortOrder\": \"alphabetical\",\r\n                \"autoReveal\": false\r\n              },\r\n              \"icon\": \"lucide-folder-closed\",\r\n              \"title\": \"Файловый менеджер\"\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"dc43386a0d3310ab\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"search\",\r\n              \"state\": {\r\n                \"query\": \"\",\r\n                \"matchingCase\": false,\r\n                \"explainSearch\": false,\r\n                \"collapseAll\": false,\r\n                \"extraContext\": false,\r\n                \"sortOrder\": \"alphabetical\"\r\n              },\r\n              \"icon\": \"lucide-search\",\r\n              \"title\": \"Поиск\"\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"e68fdf37802a6e31\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"bookmarks\",\r\n              \"state\": {},\r\n              \"icon\": \"lucide-bookmark\",\r\n              \"title\": \"Bookmarks\"\r\n            }\r\n          }\r\n        ]\r\n      }\r\n    ],\r\n    \"direction\": \"horizontal\",\r\n    \"width\": 429.5\r\n  },\r\n  \"right\": {\r\n    \"id\": \"2dace323d37d6b22\",\r\n    \"type\": \"split\",\r\n    \"children\": [\r\n      {\r\n        \"id\": \"13c5a59b02865c21\",\r\n        \"type\": \"tabs\",\r\n        \"children\": [\r\n          {\r\n            \"id\": \"88a419699485ce68\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"calendar\",\r\n              \"state\": {},\r\n              \"icon\": \"calendar-with-checkmark\",\r\n              \"title\": \"Calendar\"\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"4b8e84a69de030f8\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"backlink\",\r\n              \"state\": {\r\n                \"collapseAll\": false,\r\n                \"extraContext\": false,\r\n                \"sortOrder\": \"alphabetical\",\r\n                \"showSearch\": false,\r\n                \"searchQuery\": \"\",\r\n                \"backlinkCollapsed\": false,\r\n                \"unlinkedCollapsed\": true\r\n              },\r\n              \"icon\": \"links-coming-in\",\r\n              \"title\": \"Обратные ссылки\"\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"9366ed94725e905e\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"outgoing-link\",\r\n              \"state\": {\r\n                \"file\": \"content/docs/guides/contribute/seafknowledge.md\",\r\n                \"linksCollapsed\": true,\r\n                \"unlinkedCollapsed\": true\r\n              },\r\n              \"icon\": \"links-going-out\",\r\n              \"title\": \"Исходящие ссылки из seafknowledge\"\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"4a023bcf919c79d1\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"tag\",\r\n              \"state\": {\r\n                \"sortOrder\": \"frequency\",\r\n                \"useHierarchy\": true,\r\n                \"showSearch\": false,\r\n                \"searchQuery\": \"\"\r\n              },\r\n              \"icon\": \"lucide-tags\",\r\n              \"title\": \"Теги\"\r\n            }\r\n          },\r\n          {\r\n            \"id\": \"56340a1d9c381e02\",\r\n            \"type\": \"leaf\",\r\n            \"state\": {\r\n              \"type\": \"outline\",\r\n              \"state\": {\r\n                \"followCursor\": true,\r\n                \"showSearch\": false,\r\n                \"searchQuery\": \"\"\r\n              },\r\n              \"icon\": \"lucide-list\",\r\n              \"title\": \"Структура\"\r\n            }\r\n          }\r\n        ],\r\n        \"currentTab\": 4\r\n      }\r\n    ],\r\n    \"direction\": \"horizontal\",\r\n    \"width\": 261.5\r\n  },\r\n  \"left-ribbon\": {\r\n    \"hiddenItems\": {\r\n      \"switcher:Меню быстрого перехода\": false,\r\n      \"graph:Граф\": false,\r\n      \"canvas:Создать новый холст\": false,\r\n      \"daily-notes:Сегодняшняя заметка\": false,\r\n      \"templates:Вставить шаблон\": false,\r\n      \"command-palette:Открыть палитру команд\": false,\r\n      \"zk-prefixer:Создать заметку с уникальным идентификатором\": false,\r\n      \"publish:Публикация изменений\": false,\r\n      \"templater-obsidian:Templater\": false,\r\n      \"mermaid-tools:Open Mermaid Toolbar\": false,\r\n      \"github-sync:Sync with Remote\": false,\r\n      \"obsidian-excalidraw-plugin:Создать новый чертеж\": false,\r\n      \"markdown-importer:Импорт Markdown-файлов\": false,\r\n      \"obsidian-advanced-slides:Show Slide Preview\": false\r\n    }\r\n  },\r\n  \"active\": \"ba12c07b86e27aba\",\r\n  \"lastOpenFiles\": [\r\n    \"content/docs/guides/contribute/seafknowledge.md\",\r\n    \"content/docs/guides/contribute/Untitled Diagram 1.svg\",\r\n    \"content/docs/guides/contribute/models/knowledgeformsout.svg\",\r\n    \"content/docs/guides/contribute/stakeholders.svg\",\r\n    \"content/docs/guides/contribute/formats.svg\",\r\n    \"content/docs/guides/contribute/typesbylogic.svg\",\r\n    \"content/docs/guides/contribute/Вопросы к рассмотрению (разобрать).svg\",\r\n    \"content/docs/guides/contribute/knowledgemachine.svg\",\r\n    \"content/docs/guides/contribute/models/knowledgeformsin.svg\",\r\n    \"content/docs/guides/contribute/Knowledge Cube v1.jpg\",\r\n    \"content/docs/guides/contribute/models\",\r\n    \"content/docs/guides/contribute/Темы для проработки Рабочей группой SEAF.md\",\r\n    \"content/docs/guides/contribute/Knowledgekpi.svg\",\r\n    \"content/docs/guides/contribute/tags.md\",\r\n    \"content/docs/guides/contribute/todolist.md\",\r\n    \"content/docs/guides/contribute/deep.md\",\r\n    \"content/docs/guides/contribute/contributors.md\",\r\n    \"content/docs/guides/contribute/202504071852.md\",\r\n    \"content/ObsidianVault/СООБЩЕСТВО SEAF/План мероприятий SEAF_2024Q3-4_v2.excalidraw.md\",\r\n    \"content/ObsidianVault/СООБЩЕСТВО SEAF/что-то про стратегию со старого холста моего.excalidraw.excalidraw.md\",\r\n    \"content/ObsidianVault/СООБЩЕСТВО SEAF/что-то про стратегию со старого холста 11.54.34.excalidraw.md\",\r\n    \"content/ObsidianVault/SEAF.sci.community/Drawing 2025-03-17 13.31.23.excalidraw.md\",\r\n    \"content/ObsidianVault/СООБЩЕСТВО SEAF/ЧЕГО МЫ ХОТИМ ОТ SEAF.md\",\r\n    \"content/ObsidianVault/СООБЩЕСТВО SEAF/Сообщество SEAF tobe v2.excalidraw.md\",\r\n    \"content/ObsidianVault/СООБЩЕСТВО SEAF/Рекомендации Андрея Блинова по развитию SEAF в части управления знаниями, формирования базы знаний.md\",\r\n    \"content/ObsidianVault/СООБЩЕСТВО SEAF/План мероприятий SEAF_2024Q1-2.excalidraw.md\",\r\n    \"content/ObsidianVault/СООБЩЕСТВО SEAF/План мероприятий SEAF и прочее (архив)_v0.1.excalidraw.md\",\r\n    \"content/docs/guides/contribute/othernotes/Что такое deepwiki.md\",\r\n    \"content/docs/guides/contribute/SEAF TAGS.drawio\",\r\n    \"content/docs/guides/contribute/othernotes/deepwiki.md\",\r\n    \"content/docs/guides/contribute/_index.md\",\r\n    \"content/docs/guides/contribute/howtomarkdata.md\",\r\n    \"content/docs/guides/_index.md\",\r\n    \"seafonapage/_index.md\",\r\n    \"content/docs/guides/contribute/howtoformat.md\",\r\n    \"content/docs/guides/contribute/howtostart.md\",\r\n    \"content/docs/fundamentals/_index.md\",\r\n    \"Без названия 1.canvas\",\r\n    \"Без названия.canvas\",\r\n    \"content/docs/guides/contribute/othernotes\",\r\n    \"content/docs/posts/AI\",\r\n    \"content/docs/fundamentals/refprocs\",\r\n    \"seafonapage\",\r\n    \"README.md~\",\r\n    \"content/docs/fundamentals/_index.md~\",\r\n    \"content/docs/fundamentals/values4org\",\r\n    \"static/rev_idea\",\r\n    \"Без названия 3.canvas\",\r\n    \"Untitled.canvas\",\r\n    \"Untitled 2.canvas\",\r\n    \"Untitled 1.canvas\",\r\n    \"Без названия 2.canvas\"\r\n  ]\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.obsidian/workspace.json b/.obsidian/workspace.json
+--- a/.obsidian/workspace.json	(revision ea373155d6a3c720aa87a45873146f3b69c2a7bf)
++++ b/.obsidian/workspace.json	(date 1751824003888)
+@@ -4,11 +4,11 @@
+     "type": "split",
+     "children": [
+       {
+-        "id": "99e58a1d2149f13b",
++        "id": "74415d0f84df40cc",
+         "type": "tabs",
+         "children": [
+           {
+-            "id": "ba12c07b86e27aba",
++            "id": "6458ff29b0d707b1",
+             "type": "leaf",
+             "state": {
+               "type": "empty",
+@@ -74,7 +74,7 @@
+       }
+     ],
+     "direction": "horizontal",
+-    "width": 429.5
++    "width": 276.5
+   },
+   "right": {
+     "id": "2dace323d37d6b22",
+@@ -180,7 +180,7 @@
+       "obsidian-advanced-slides:Show Slide Preview": false
+     }
+   },
+-  "active": "ba12c07b86e27aba",
++  "active": "fddab1e91421cf81",
+   "lastOpenFiles": [
+     "content/docs/guides/contribute/seafknowledge.md",
+     "content/docs/guides/contribute/Untitled Diagram 1.svg",

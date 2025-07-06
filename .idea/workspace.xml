@@ -4,51 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="Мелкие доработки информации по управлению знаниями">
-      <change afterPath="$PROJECT_DIR$/content/docs/guides/contribute/Untitled Diagram 1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ProductCode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Values4ProdTeam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/contribute/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/example/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/fundamentals/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/guides/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/posts/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/posts/reverse-engineering/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/rabbithole/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/docs/seafonapage/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+    <list default="true" id="7ce7517f-5644-452d-a3c3-d2f09827119c" name="Changes" comment="ДополнительныеМелкие доработки информации по управлению знаниями">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/graph.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/graph.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/models/knowledgeformsout.svg" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/models/knowledgeformsout.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/guides/contribute/seafknowledge.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/guides/contribute/seafknowledge.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +23,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -318,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750932100156</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Мелкие доработки информации по управлению знаниями">
+      <option name="closed" value="true" />
+      <created>1751823595495</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1751823595495</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -370,7 +336,7 @@
     <MESSAGE value="Черновая версия презентации об управлении знаниями в SEAF." />
     <MESSAGE value="Черновая версия презентации об управлении знаниями в SEAF. Дополнительные заметки." />
     <MESSAGE value="перенос трех моделей в каталог, мелкие доработки информации по управлению знаниями" />
-    <MESSAGE value="Мелкие доработки информации по управлению знаниями" />
-    <option name="LAST_COMMIT_MESSAGE" value="Мелкие доработки информации по управлению знаниями" />
+    <MESSAGE value="ДополнительныеМелкие доработки информации по управлению знаниями" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДополнительныеМелкие доработки информации по управлению знаниями" />
   </component>
 </project>
